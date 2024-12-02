@@ -10,4 +10,5 @@ And,i convince coding can help us solve this problem.
 
 # Interests  
 
-I really interrested in solving problems using code.What,i love in that field is that you can build a cathedral from scratch.
+I really interrested in solving problems using code.  
+What,i love in that field is that you can build a cathedral from scratch.
