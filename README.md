@@ -1,17 +1,34 @@
-Iam Pierre Kenley MERVIL
+# 👋 Welcome to My Github
 
-# Backgroud and conviction
+Hi there! I'm Pierre Kenley Mervil, passionate about computers, especially AI, ML,
+and Software.
+This repo is a collection of my background, projects, ideas, and experiences.
+Feel free to scroll down and learn more about my work, and reach out if you'd like
+to collaborate!
 
-I have a background in animal production.  
-iam aware that animal husbandry is one the contributors in the climate change.  
-If it's one,then we can't ignore it.  
-From this fact,we must find a way to make animal husbandry sustainable.  
-And,i convince coding can help us solve this problem.  
+## 🌞 About Me
 
-# Interests  
+🎓 **Education**: I have a degree in Agronomy, with specialization in Animal Production.
+I also have multiple certifications related to computer science!
+💼 **Profession**: I was an intern at MARNDR in Haiti. Now, I'm working with social
+organizations like REJDET, JCI Tabarre Excelsior, etc
+🌱 **Currently Learning**: Data and computer science, how to develop my leadership.
+💡 **Interests**: Artificial Intelligence, Software Engineering, Machine Learning,
+Data Science and Data Analyst
+🚀 **Goals for This Year**: Finish the Computer and data science program,
+get my TOEFL or IELTS test, start creating content
 
-I really interrested in solving problems using code.  
-What,i love in that field is that you can build a cathedral from scratch.
-In how machine can facilitate human life.  
+## 📂 Projects
 
-# Greedings
+## ⚙️ Technical Skills
+
+**Programming Languages**: Python,HTML, CSS
+**Soft Skills**: Communication, Project Management, Teamwork, Community Leader
+
+## 🎯 Purpose of this Repository
+
+This repository serves to:
+
+💎Share my learning journey and projects
+💎Collaborate with other enthusiasts people
+💎Document my progress in computer and data science
